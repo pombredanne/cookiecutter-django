@@ -12,6 +12,21 @@ Jim Munro*
 Tom Offermann
 Lyla Fischer
 Taylor Baldwin
+Chris Curvey (@ccurvey)
+Fábio C. Barrionuevo da Luz (@luzfcb)
+Saurabh Kumar
+Ashley Camba
+Yaroslav Halchenko
+Pablo / @oubiga
+Tom Atkins / @knitatoms
+Julio Castillo / @juliocc
+Kevin A. Stone
+mozillazg / @mozillazg
+Henrique G. G. Pereira / @ikkebr
+Travis McNeill / gh: Tavistock / @tavistock_esq 
+Matt Linares
+Russell Davies
+Sławek Ehlert / @slafs
 
 * Possesses commit rights
 
